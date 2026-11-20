@@ -153,3 +153,4 @@ Yes—it automatically creates dated backups of both folders.
 - [Fable2026-ShaderCrashGuard](../Fable2026-ShaderCrashGuard) — Fable (2026) ForzaTech shader optimization & crash guard
 
 *Independent community project. Not affiliated with Playground Games, Xbox Game Studios, Microsoft, Valve, or Steam.*
+ 
