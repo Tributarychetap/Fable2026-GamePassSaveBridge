@@ -154,3 +154,4 @@ Yes—it automatically creates dated backups of both folders.
 
 *Independent community project. Not affiliated with Playground Games, Xbox Game Studios, Microsoft, Valve, or Steam.*
  
+ 
